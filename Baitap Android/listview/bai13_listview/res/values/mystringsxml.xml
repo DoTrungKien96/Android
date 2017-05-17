@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myarray">
+        <item >tran van teo</item>
+        <item >nguyen thi tet</item>
+        <item >ho van hien</item>
+    </string-array>
+   
+    
+</resources>
